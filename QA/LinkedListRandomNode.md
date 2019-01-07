@@ -1,0 +1,2 @@
+# [链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node)
+

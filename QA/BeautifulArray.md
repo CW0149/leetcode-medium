@@ -1,0 +1,2 @@
+# [漂亮数组](https://leetcode-cn.com/problems/beautiful-array)
+

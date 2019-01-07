@@ -1,0 +1,2 @@
+# [超级丑数](https://leetcode-cn.com/problems/super-ugly-number)
+
