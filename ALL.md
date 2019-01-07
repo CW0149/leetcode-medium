@@ -1,6 +1,6 @@
 # 题目列表
 
-题号 | 题名 | 通过率 | 答案
+题号 | 题名 | 答案 | 通过率
 --------- | ------------- | ------------- | :-------------:
 2	|	[两数相加](https://leetcode-cn.com/problems/add-two-numbers "AddTwoNumbers")	|	[AddTwoNumbers](QA/AddTwoNumbers.md)	|	31.1%
 3	|	[无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters "LongestSubstringWithoutRepeatingCharacters")	|	[LongestSubstringWithoutRepeatingCharacters](QA/LongestSubstringWithoutRepeatingCharacters.md)	|	26.6%
