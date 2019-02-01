@@ -30,7 +30,11 @@
 ### 解答
 
 ```
-const lengthOfLongestSubstring = function(s) {
+/**
+ * @param {string} s
+ * @return {number}
+ */
+var lengthOfLongestSubstring = function(s) {
     if (!s) return 0;
     let count = [1], i = 0, j = 1;
 
